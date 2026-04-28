@@ -3,15 +3,14 @@
 ## Professional Summary
 
 Software developer with experience in backend and full-stack web development, focused on building efficient, scalable, and maintainable applications. Strong foundation in Python-based frameworks and relational databases, with solid knowledge of modern web technologies.
-
+https://github.com/Jose-Abilio/Jose-Abilio/blob/main/README.md
 ## Technical Skills
 
-* **Programming Languages:** Python, JavaScript
-* **Frameworks & Libraries:** Flask
-* **Databases:** MySQL
-* **Web Technologies:** HTML5, CSS
-* **Core Competencies:** RESTful APIs, database integration, clean code practices
+## 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,js,html,css" />
+</p>
 ## Professional Experience
 
 ### Matec
