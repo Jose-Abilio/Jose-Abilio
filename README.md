@@ -29,11 +29,11 @@ Additional projects available in this repository demonstrate practical applicati
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jose-Abilio\&show_icons=true\&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Abilio\&layout=compact)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Abilio)
 
 ## Contact
 
