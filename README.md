@@ -1,4 +1,4 @@
-# José-Abilio
+# Jose-Abilio
 
 ## Professional Summary
 
