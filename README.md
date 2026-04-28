@@ -26,7 +26,7 @@ Developed and maintained web application features, integrating backend services 
 
 Additional projects available in this repository demonstrate practical applications of backend and frontend integration, focusing on performance and usability.
 
-## GitHub Analytics
+
 
 ## 📊 GitHub Insights
 
