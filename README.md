@@ -11,6 +11,7 @@ https://github.com/Jose-Abilio/Jose-Abilio/blob/main/README.md
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,mysql,js,html,css" />
 </p>
+
 ## Professional Experience
 
 ### Matec
