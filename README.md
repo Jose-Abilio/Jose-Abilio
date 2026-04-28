@@ -22,11 +22,6 @@ Developed and maintained web application features, integrating backend services 
 * Built responsive interfaces using HTML5, CSS, and JavaScript
 * Ensured code organization and maintainability
 
-## Projects
-
-Additional projects available in this repository demonstrate practical applications of backend and frontend integration, focusing on performance and usability.
-
-
 
 ## 📊 GitHub Insights
 
