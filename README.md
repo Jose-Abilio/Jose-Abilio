@@ -26,12 +26,24 @@ Developed and maintained web application features, integrating backend services 
 
 ## 📊 GitHub Insights
 
+## 📊 Performance Dashboard
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jose-Abilio&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jose-Abilio&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jose-Abilio&theme=github_dark&utcOffset=-3" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-Abilio&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose-Abilio&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose-Abilio&theme=github_dark" />
 </p>
 
+## 📈 Contribution Activity
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-Abilio&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jose-Abilio&theme=github-dark&hide_border=true&line=58A6FF&point=1F6FEB" />
+</p>
