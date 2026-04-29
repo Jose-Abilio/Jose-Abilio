@@ -27,11 +27,9 @@ Developed and maintained web application features, integrating backend services 
 ## 📊 GitHub Insights
 
 ## 📊 Performance Dashboard
+## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jose-Abilio&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jose-Abilio&theme=github_dark&utcOffset=-3" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jose-Abilio&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Abilio&layout=compact&theme=tokyonight)
 ## 📈 Contribution Activity
