@@ -25,12 +25,15 @@ Developed and maintained web application features, integrating backend services 
 
 
 # 📊 Analytics
-
+<p align = "center">
 ## 📈 Atividade
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Abilio&theme=tokyo-night&area=true&hide_border=true)
-
+</p>
+<p align = "center">
 ## 📊 Estatísticas
 ![Stats](https://github-readme-stats.vercel.app/api?username=Jose-Abilio&show_icons=true&theme=tokyonight&hide_border=true)
-
+</p>
+<p align = "center">
 ## 🧠 Linguagens
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Abilio&layout=donut&theme=tokyonight&hide_border=true)
+</p>
