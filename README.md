@@ -24,16 +24,13 @@ Developed and maintained web application features, integrating backend services 
 * Ensured code organization and maintainability
 
 
-## 📊 GitHub Insights
-
-## 📊 Performance Dashboard
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jose-Abilio&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Abilio&layout=compact&theme=tokyonight)
-## 📈 Contribution Activity
+# 📊 Analytics
 
 ## 📈 Atividade
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Abilio&theme=tokyo-night&area=true&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Abilio&theme=tokyo-night)
+## 📊 Estatísticas
+![Stats](https://github-readme-stats.vercel.app/api?username=Jose-Abilio&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 🧠 Linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Abilio&layout=donut&theme=tokyonight&hide_border=true)
