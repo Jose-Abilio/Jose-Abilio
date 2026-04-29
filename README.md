@@ -33,11 +33,7 @@ Developed and maintained web application features, integrating backend services 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jose-Abilio&theme=github_dark&utcOffset=-3" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose-Abilio&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose-Abilio&theme=github_dark" />
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Abilio&layout=compact&theme=tokyonight)
 ## 📈 Contribution Activity
 
 ## 📈 Atividade
