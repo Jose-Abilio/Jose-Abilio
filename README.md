@@ -40,10 +40,6 @@ Developed and maintained web application features, integrating backend services 
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-Abilio&theme=github_dark" />
-</p>
+## 📈 Atividade
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jose-Abilio&theme=github-dark&hide_border=true&line=58A6FF&point=1F6FEB" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Abilio&theme=tokyo-night)
